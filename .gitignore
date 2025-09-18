@@ -1,0 +1,152 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ML-specific ignores
+# Models and large binary files
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.model
+*.tflite
+*.onnx
+
+# TensorFlow/Keras
+checkpoints/
+logs/
+*.index
+*.data-*
+*.meta
+
+# Data files (avoid committing large datasets)
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.feather
+*.hdf
+*.json
+*.xml
+
+# Exception: keep small sample data if needed
+!data/sample/
+
+# Embeddings and large arrays
+*.npy
+*.npz
+
+# Visualization outputs
+plots/
+graphs/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.html
+
+# Configuration files with secrets
+config.yaml
+config.yml
+*.env
+*.secret
+
+# Training history and logs
+training_logs/
+mlruns/
+models/  # ignore trained models directory
+
+# XGBoost specific
+*.buffer
+*.bin
+
+# LightGBM specific
+lightgbm_model.txt
+
+# PyTorch
+*.pt
+*.pth
+
+# Jupyter
+.jupyter/
+
+# Temporary files
+tmp/
+temp/
