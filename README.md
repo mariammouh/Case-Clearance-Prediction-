@@ -14,7 +14,7 @@ This machine learning project predicts the likelihood of a crime case being solv
 ## 📁 Project Structure
 
 ```
-crime-ml-project/
+Case-Clearance-Prediction-/
 ├── 📄 CrimeSolvedPrediction.ipynb.  # Main analysis notebook
 ├── 📄 requirements.txt              # Python dependencies
 ├── 📄 README.md                     # Project documentation
@@ -33,9 +33,14 @@ crime-ml-project/
 
 ## 🚀 Usage
 
-**Simply execute the Jupyter notebook cells in sequential order:**
+Clone the repository:
 
-1. **Open** `crime_analysis.ipynb` in Jupyter Notebook
+bash
+git clone https://github.com/mariammouh/Case-Clearance-Prediction-.git
+cd Case-Clearance-Prediction-
+**Then simply execute the Jupyter notebook cells in sequential order:**
+
+1. **Open** `CrimeSolvedPrediction.ipynb` in Jupyter Notebook
 2. **Run all cells sequentially** from top to bottom
 3. **Follow the logical flow** through each section:
    - Data loading and inspection
