@@ -34,9 +34,9 @@ Case-Clearance-Prediction-/
 ## 🚀 Usage
 
 Clone the repository:
-
-bash
+```bash
 git clone https://github.com/mariammouh/Case-Clearance-Prediction-.git
+```
 cd Case-Clearance-Prediction-
 **Then simply execute the Jupyter notebook cells in sequential order:**
 
