@@ -1,0 +1,9 @@
+# Essential packages only
+scikit-learn
+xgboost
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+jupyter
