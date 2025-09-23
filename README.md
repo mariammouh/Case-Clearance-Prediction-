@@ -20,6 +20,7 @@ Case-Clearance-Prediction-/
 ├── 📄 requirements.txt              # Python dependencies
 ├── 📄 README.md                     # Project documentation
 ├── 📄 .gitignore                    # Git ignore rules
+├── 📄 usage.py                     # Usage example
 ├── 📂 data/                         # All data files
 │   ├── 📄 Old_Crime_Data.csv        # Original raw data
 │   └── 📄 processed_data.csv        # Cleaned & engineered data
